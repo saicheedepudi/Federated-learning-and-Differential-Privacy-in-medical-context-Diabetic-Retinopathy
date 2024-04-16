@@ -23,4 +23,4 @@ retinopathy problem.
 
 
 
-<img width="320" alt="federated learning" src="https://github.com/saicheedepudi/Federated-learning-and-Differential-Privacy-in-medical-context-Diabetic-Retinopathy/assets/22156200/eb9068c2-edb8-4872-a542-d1f85a29522d">
+<img width="520" alt="federated learning" src="https://github.com/saicheedepudi/Federated-learning-and-Differential-Privacy-in-medical-context-Diabetic-Retinopathy/assets/22156200/eb9068c2-edb8-4872-a542-d1f85a29522d">
