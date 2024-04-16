@@ -13,4 +13,14 @@ is the dataset link of Kaggle repository:
 https://www.kaggle.com/datasets/tanlikesmath/diabetic-retinopathy-resized
 The effective outcome is to predict the test image that can be classified into class of diabetic 
 retinopathy problem.
+
+
+
+
+
+
+
+
+
+
 <img width="320" alt="federated learning" src="https://github.com/saicheedepudi/Federated-learning-and-Differential-Privacy-in-medical-context-Diabetic-Retinopathy/assets/22156200/eb9068c2-edb8-4872-a542-d1f85a29522d">
